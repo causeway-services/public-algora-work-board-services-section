@@ -1,4 +1,4 @@
-# Algora software-work circuit board
+# @causeway-services/public-algora-work-board-services-section
 
 <!-- 561-group-standards:badges:start -->
 [![Causeway Services](https://img.shields.io/badge/561%20Group-Causeway%20Services-115e69)](https://github.com/causeway-services)
@@ -6,6 +6,8 @@
 [![Indigenous data: CARE](https://img.shields.io/badge/Indigenous%20data-CARE-4b6f44)](https://github.com/causeway-services/.github/blob/main/GOVERNANCE.md)
 [![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
 <!-- 561-group-standards:badges:end -->
+
+Circuit board whose sovereign dies observe, assay, allocate, synthesize, execute, adjudicate, publish, witness, and rectify software work.
 
 This root owns no aggregate runtime. It is the verified circuit board that composes thirteen sovereign dies under `services/`:
 
