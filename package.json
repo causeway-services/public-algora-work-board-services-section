@@ -8,7 +8,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/causeway-services/algora-work-board.git"
+    "url": "git+https://github.com/causeway-services/public-algora-work-board-services-section.git"
   },
   "funding": {
     "type": "individual",
