@@ -30,7 +30,7 @@ Every die has one RMN law, one black-box circuit interface, settlement-owned Age
 The only conductor executable is:
 
 ```sh
-services/algora-work-board-conductor/scripts/run-loop.mjs --live \
+services/public-algora-work-board-conductor-services-section/scripts/run-loop.mjs --live \
   --observed-at 2026-07-21T00:00:00Z --dry
 ```
 

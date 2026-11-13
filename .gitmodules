@@ -1,48 +1,48 @@
-[submodule "services/work-risk-assay-service"]
-	path = services/work-risk-assay-service
+[submodule "services/public-software-work-risk-assay-services-section"]
+	path = services/public-software-work-risk-assay-services-section
 	url = https://github.com/causeway-services/public-software-work-risk-assay-services-section.git
 	branch = main
-[submodule "services/work-qualification-assay-service"]
-	path = services/work-qualification-assay-service
+[submodule "services/public-software-work-qualification-assay-services-section"]
+	path = services/public-software-work-qualification-assay-services-section
 	url = https://github.com/causeway-services/public-software-work-qualification-assay-services-section.git
 	branch = main
-[submodule "services/work-allocation-service"]
-	path = services/work-allocation-service
+[submodule "services/public-software-work-allocation-services-section"]
+	path = services/public-software-work-allocation-services-section
 	url = https://github.com/causeway-services/public-software-work-allocation-services-section.git
 	branch = main
-[submodule "services/software-work-witness-service"]
-	path = services/software-work-witness-service
+[submodule "services/public-software-work-witness-services-section"]
+	path = services/public-software-work-witness-services-section
 	url = https://github.com/causeway-services/public-software-work-witness-services-section.git
 	branch = main
-[submodule "services/software-work-rectification-assay-service"]
-	path = services/software-work-rectification-assay-service
+[submodule "services/public-software-work-rectification-assay-services-section"]
+	path = services/public-software-work-rectification-assay-services-section
 	url = https://github.com/causeway-services/public-software-work-rectification-assay-services-section.git
 	branch = main
-[submodule "services/software-static-verification-service"]
-	path = services/software-static-verification-service
+[submodule "services/public-software-static-verification-services-section"]
+	path = services/public-software-static-verification-services-section
 	url = https://github.com/causeway-services/public-software-static-verification-services-section.git
 	branch = main
-[submodule "services/software-sandbox-execution-service"]
-	path = services/software-sandbox-execution-service
+[submodule "services/public-software-sandbox-execution-services-section"]
+	path = services/public-software-sandbox-execution-services-section
 	url = https://github.com/causeway-services/public-software-sandbox-execution-services-section.git
 	branch = main
-[submodule "services/software-patch-synthesis-service"]
-	path = services/software-patch-synthesis-service
+[submodule "services/public-software-patch-synthesis-services-section"]
+	path = services/public-software-patch-synthesis-services-section
 	url = https://github.com/causeway-services/public-software-patch-synthesis-services-section.git
 	branch = main
-[submodule "services/software-execution-adjudication-service"]
-	path = services/software-execution-adjudication-service
+[submodule "services/public-software-execution-adjudication-services-section"]
+	path = services/public-software-execution-adjudication-services-section
 	url = https://github.com/causeway-services/public-software-execution-adjudication-services-section.git
 	branch = main
-[submodule "services/repository-material-observation-service"]
-	path = services/repository-material-observation-service
+[submodule "services/public-repository-material-observation-services-section"]
+	path = services/public-repository-material-observation-services-section
 	url = https://github.com/causeway-services/public-repository-material-observation-services-section.git
 	branch = main
-[submodule "services/opportunity-observation-service"]
-	path = services/opportunity-observation-service
+[submodule "services/public-algora-opportunity-observation-services-section"]
+	path = services/public-algora-opportunity-observation-services-section
 	url = https://github.com/causeway-services/public-algora-opportunity-observation-services-section.git
 	branch = main
-[submodule "services/algora-work-board-conductor"]
-	path = services/algora-work-board-conductor
+[submodule "services/public-algora-work-board-conductor-services-section"]
+	path = services/public-algora-work-board-conductor-services-section
 	url = https://github.com/causeway-services/public-algora-work-board-conductor-services-section.git
 	branch = main
