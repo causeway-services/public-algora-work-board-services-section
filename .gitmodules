@@ -1,0 +1,48 @@
+[submodule "services/public-software-work-risk-assay-services-section"]
+	path = services/public-software-work-risk-assay-services-section
+	url = https://github.com/causeway-services/public-software-work-risk-assay-services-section.git
+	branch = main
+[submodule "services/public-software-work-qualification-assay-services-section"]
+	path = services/public-software-work-qualification-assay-services-section
+	url = https://github.com/causeway-services/public-software-work-qualification-assay-services-section.git
+	branch = main
+[submodule "services/public-software-work-allocation-services-section"]
+	path = services/public-software-work-allocation-services-section
+	url = https://github.com/causeway-services/public-software-work-allocation-services-section.git
+	branch = main
+[submodule "services/public-software-work-witness-services-section"]
+	path = services/public-software-work-witness-services-section
+	url = https://github.com/causeway-services/public-software-work-witness-services-section.git
+	branch = main
+[submodule "services/public-software-work-rectification-assay-services-section"]
+	path = services/public-software-work-rectification-assay-services-section
+	url = https://github.com/causeway-services/public-software-work-rectification-assay-services-section.git
+	branch = main
+[submodule "services/public-software-static-verification-services-section"]
+	path = services/public-software-static-verification-services-section
+	url = https://github.com/causeway-services/public-software-static-verification-services-section.git
+	branch = main
+[submodule "services/public-software-sandbox-execution-services-section"]
+	path = services/public-software-sandbox-execution-services-section
+	url = https://github.com/causeway-services/public-software-sandbox-execution-services-section.git
+	branch = main
+[submodule "services/public-software-patch-synthesis-services-section"]
+	path = services/public-software-patch-synthesis-services-section
+	url = https://github.com/causeway-services/public-software-patch-synthesis-services-section.git
+	branch = main
+[submodule "services/public-software-execution-adjudication-services-section"]
+	path = services/public-software-execution-adjudication-services-section
+	url = https://github.com/causeway-services/public-software-execution-adjudication-services-section.git
+	branch = main
+[submodule "services/public-repository-material-observation-services-section"]
+	path = services/public-repository-material-observation-services-section
+	url = https://github.com/causeway-services/public-repository-material-observation-services-section.git
+	branch = main
+[submodule "services/public-algora-opportunity-observation-services-section"]
+	path = services/public-algora-opportunity-observation-services-section
+	url = https://github.com/causeway-services/public-algora-opportunity-observation-services-section.git
+	branch = main
+[submodule "services/public-algora-work-board-conductor-services-section"]
+	path = services/public-algora-work-board-conductor-services-section
+	url = https://github.com/causeway-services/public-algora-work-board-conductor-services-section.git
+	branch = main
